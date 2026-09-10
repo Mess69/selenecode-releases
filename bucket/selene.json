@@ -10,7 +10,9 @@
     }
   },
   "bin": "selene.exe",
-  "checkver": "github",
+  "checkver": {
+    "github": "https://github.com/Mess69/selenecode-releases"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {

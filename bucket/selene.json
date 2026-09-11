@@ -1,12 +1,12 @@
 {
-  "version": "0.0.0",
+  "version": "0.2.0",
   "description": "Local-first code intelligence for AI agents, in Rust",
   "homepage": "https://selenecode.com",
   "license": "PolyForm-Noncommercial-1.0.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Mess69/selenecode-releases/releases/download/v0.0.0/selene-x86_64-pc-windows-msvc.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "url": "https://github.com/Mess69/selenecode-releases/releases/download/v0.2.0/selene-x86_64-pc-windows-msvc.zip",
+      "hash": "f878a86626e626d7a4ac383fceb4e7e43d5283712422b14194240eb6fa227a81"
     }
   },
   "bin": "selene.exe",
